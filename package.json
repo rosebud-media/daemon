@@ -11,7 +11,9 @@
   "dependencies": {
     "@octokit/rest": "^21.1.1",
     "dotenv": "^16.4.7",
-    "matrix-js-sdk": "^37.2.0"
+    "form-data": "^4.0.2",
+    "matrix-js-sdk": "^37.2.0",
+    "node-fetch": "^3.3.2"
   },
   "description": ""
 }
