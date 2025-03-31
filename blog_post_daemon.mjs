@@ -306,7 +306,7 @@ async function processEvent(event) {
       title: metadata.title,
       author: username,
       summary: metadata.summary,
-      dateApproved: metadata.dateApproved,
+      date_approved: metadata.dateApproved,
       tags: metadata.tags,
       mature: metadata.mature,
       timestamp: metadata.timestamp,
